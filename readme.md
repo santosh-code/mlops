@@ -39,3 +39,4 @@ pip install -e .
 build your own package commands-
 
 python setup.py sdist bdist_wheel
+san
